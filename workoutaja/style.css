@@ -58,12 +58,14 @@ main {
   font-family:'Mulish', sans-serif;
   font-size: 3.1rem;
   font-weight:lighter;
+  margin-top: 1.5rem;
 }
 
 /* Check font styling */
 .text h1 span {
   color: #89c5cb;
   font-weight: 600;
+  line-height: 5rem;
 }
 
 /* Check font styling */
@@ -72,7 +74,8 @@ main {
   color: #acabb5;
   font-size: 1.1rem;
   letter-spacing: 0.05rem;
-  margin-top: 2rem;
+  margin-top: 1.3rem;
+  line-height: 1.7rem;
 }
 
 /* Check font styling and make sure the button is rounded */
@@ -82,7 +85,7 @@ main {
   gap: 8px;
   padding:0.9rem 2.1rem;
   background-color: #69B99E;
-  margin-top: 2.4rem;
+  margin-top: 2.8rem;
   color: #F9F9F9;
   border: none;
   align-items: center;
